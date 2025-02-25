@@ -9,6 +9,8 @@ A project collaboratively made by:-
 ## **Arogya – A Smart Healthcare Platform**  
 Arogya is a **full-stack web application** designed to connect users with hospitals and medical resources in an efficient and interactive manner. It caters to two distinct user roles—**patients and hospitals**, providing them with dedicated features to enhance their healthcare experience.  
 
+Explainatory video :- [https://youtu.be/4o9QmSxxgUk?si=p8VXgL8v9yBBepHl](https://youtu.be/4o9QmSxxgUk?si=p8VXgL8v9yBBepHl)
+
 The platform is built with:  
 ✅ **React.js** for a modern and dynamic UI  
 ✅ **Supabase (PostgreSQL)** for a scalable and efficient backend  
