@@ -1,8 +1,8 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+AROGYA 
+Hospital Listing and Patient Dashboard Monitoring Platform - Full Stack Website - React.js, Supabase (PostgreSQL), Clerk, OpenAI API
+-Connects users with doctors and medical resources. Users can view Listed Hospitals, Read reviews, Add them to view later
+-AI Chatbot for curated replies to queries and helping the user.
+- Patient dashboard from tracking all vital information in real time.
+- Modern SaaS UI Built with React.js and Tailwind, 
+- Used Supabase and Clerk, ensuring fast performance, secure authentication, and a smooth user experience.
