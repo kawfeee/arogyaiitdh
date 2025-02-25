@@ -1,9 +1,9 @@
 # AROGYA 
 
 A project collaboratively made by:-   
--Kaif Ali Khan (@kawfeee) - [github.com/kawfeee](https://github/kawfeee)   
--Chintu Rai (@chinturai) - [github.com/chinturai](https://github/chinturai).    
--Evan Lemuel (@evanlemuel23) - [github.com/evanlemuel23](https://github/evanlemuel23)   
+-Kaif Ali Khan (@kawfeee) - [github.com/kawfeee](https://github.com/kawfeee)   
+-Chintu Rai (@chinturai) - [github.com/chinturai](https://github.com/chinturai).    
+-Evan Lemuel (@evanlemuel23) - [github.com/evanlemuel23](https://github.com/evanlemuel23)   
 -Shreenivas   
 
 ## **Arogya – A Smart Healthcare Platform**  
