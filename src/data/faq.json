@@ -1,0 +1,22 @@
+[
+  {
+      "question": "What is Arogya?",
+      "answer": "Arogya is a secure and transparent healthcare platform designed to manage Electronic Health Records (EHR) using blockchain technology. It helps patients and their families track medical records, billing, and doctor visits in real time."
+  },
+  {
+      "question": "How does Arogya ensure transparency in hospital billing?",
+      "answer": "Arogya provides a detailed breakdown of hospital charges, including treatment costs, prescribed medicines, and doctor visits. The data is stored securely on the blockchain, making it tamper-proof and verifiable."
+  },
+  {
+      "question": "Who can access my medical records on Arogya?",
+      "answer": "Only authorized users, such as the patient, designated family members, and doctors, can access medical records. Patients have full control over data sharing and can grant or revoke access anytime."
+  },
+  {
+      "question": "How does Arogya use blockchain for security?",
+      "answer": "Arogya uses smart contracts built on blockchain to store and verify medical records. This ensures that all changes to records are timestamped, immutable, and cannot be altered without proper authorization."
+  },
+  {
+      "question": "Can I use Arogya to find trusted hospitals and doctors?",
+      "answer": "Yes, Arogya includes a trust rating system where patients can review hospitals and doctors based on transparency, ethical practices, and service quality."
+  }
+]

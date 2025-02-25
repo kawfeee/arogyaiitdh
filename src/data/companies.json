@@ -1,0 +1,33 @@
+[
+    {
+      "name": "amazon",
+      "path": "/companies/aiims.png",
+      "id": 1
+    },
+    {
+      "name": "atlassian",
+      "path": "/companies/apollo.png",
+      "id": 2
+    },
+    {
+      "name": "google",
+      "path": "/companies/cambridge.png",
+      "id": 3
+    },
+    {
+      "name": "ibm",
+      "path": "/companies/eastPoint.png",
+      "id": 4
+    },
+    {
+      "name": "meta",
+      "path": "/companies/manipal.png",
+      "id": 5
+    },
+    {
+      "name": "microsoft",
+      "path": "/companies/vydehi.jpeg.jpg",
+      "id": 6
+    }
+
+  ]
