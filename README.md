@@ -1,6 +1,6 @@
 # AROGYA 
 
-A project collaboratively made by:-
+A project collaboratively made by:-   
 -Kaif Ali Khan (@kawfeee)   
 -Chintu Rai (@chinturai)   
 -Evan Lemuel (@evanlemuel23)   
