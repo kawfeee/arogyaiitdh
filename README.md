@@ -4,7 +4,7 @@ A project collaboratively made by:-
 -Kaif Ali Khan (@kawfeee) - [github.com/kawfeee](https://github.com/kawfeee)   
 -Chintu Rai (@chinturai) - [github.com/chinturai](https://github.com/chinturai)       
 -Evan Lemuel (@evanlemuel23) - [github.com/evanlemuel23](https://github.com/evanlemuel23)   
--Shreenivas   
+-Shreenivas Sharma (@snsharma0714) - [github.com/snsharma0714](https://github.com/snsharma0714)    
 
 ## **Arogya – A Smart Healthcare Platform**  
 Arogya is a **full-stack web application** designed to connect users with hospitals and medical resources in an efficient and interactive manner. It caters to two distinct user roles—**patients and hospitals**, providing them with dedicated features to enhance their healthcare experience.  
